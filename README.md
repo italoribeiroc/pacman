@@ -1,6 +1,18 @@
 # Pacman
 Jogo inspirado no Pacman feito com Pygame
 
+
+### Como Jogar
+
+Para jogar você vai precisar ter o Python 3 instalado no seu computador que pode ser instalado através do site <a href="https://www.python.org/">Python</a>
+E instalar o pygame, instruções de instalação estão no site https://www.pygame.org/wiki/GettingStarted
+
+```
+
+python pacman.py
+
+```
+
 Objetivo:
 Comer todos os pontos energizantes evitando tocar nos fantasmas.
 
@@ -11,5 +23,5 @@ Instruções:
 
 Tecla P - Pausa o jogo
 
-## Printscreen
+### Printscreen
 <img src="https://i.ibb.co/1dWrSc0/pacman.png" alt="Jogo" border="0"></a>
